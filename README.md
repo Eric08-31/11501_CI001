@@ -6,16 +6,16 @@
 - **Instructor**: Yu-Feng Huang
 
 ## About Me
-- **Student ID**: 你的學號
-- **Student Name**: 你的姓名
-- **Student E-mail**: 你的元智信箱
+- **Student ID**: 1151529
+- **Student Name**: 劉定維
+- **Student E-mail**: s1151529@mail.yay.edu.tw
 
 ## Repository Purpose
 This repository stores assignments, projects, and documentation for the CI001 course.
 
 ## GitHub Pages Site
 Visit my personal website:
-https://你的GitHub帳號.github.io/
+https://Eric08-31.github.io/
 
 ## File Organization
 - Assignments: Course assignments
