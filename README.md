@@ -8,7 +8,7 @@
 ## About Me
 - **Student ID**: 1151529
 - **Student Name**: 劉定維
-- **Student E-mail**: s1151529@mail.yay.edu.tw
+- **Student E-mail**: s1151529@mail.yzu.edu.tw
 
 ## Repository Purpose
 This repository stores assignments, projects, and documentation for the CI001 course.
